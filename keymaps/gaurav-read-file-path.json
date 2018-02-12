@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o-p": "gaurav-read-file-path:readPath"
+    "ctrl-alt-r": "gaurav-read-file-path:readPath"
   }
 }
