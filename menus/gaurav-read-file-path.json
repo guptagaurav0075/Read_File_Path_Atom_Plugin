@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle gaurav-read-file-path",
+        "command": "gaurav-read-file-path:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "gaurav-read-file-path",
+          "submenu": [
+            {
+              "label": "readPath",
+              "command": "gaurav-read-file-path:readPath"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
